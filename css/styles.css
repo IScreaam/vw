@@ -4,6 +4,7 @@ body{
 	background: #bdc3c7;
 	font: 400 13px "Open Sans",Arial,Helvetica,sans-serif;
 }
+
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
   font: 400 13px "Open Sans",Arial,Helvetica,sans-serif;
 }
@@ -23,6 +24,7 @@ a:-webkit-any-link {
   text-decoration: none;
 }
 
+.error {color: #FF0000;}
 
 
 .main{
