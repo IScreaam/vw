@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
    }
 
     if ($errorsCount == 0){
-			$servername = "localhost";
+			$host = "localhost";
 			$username = "root";
 			$password = "alebastr";
 			$db="vw_polo"; 
