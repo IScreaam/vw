@@ -21,7 +21,7 @@
 			<div class='content'>
 				<?php 
           try {
-            $servername = "localhost";
+            $host = "localhost";
             $username = "root";
             $password = "alebastr";
             $db="vw_polo"; 
